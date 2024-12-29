@@ -91,14 +91,16 @@ body {
     border-color: #ff7e79;
 }
 #animated-text {
-    width: 400px; /* Tentukan lebar kotak */
-    font-size: 22px;
+    width: 500px; /* Tentukan lebar kotak */
+    font-size: 20px;
     color: whitesmoke;
+    font-weight: bold; /* Membuat teks menjadi tebal */
     white-space: pre-wrap; /* Menjaga agar spasi dan baris baru tetap ada */
     word-wrap: break-word; /* Memastikan teks yang panjang akan terbungkus dengan baik */
-    overflow-wrap: break-word;
-    margin-bottom: 3px; /* Memastikan kata panjang terputus dengan rapi */
-  }
+    overflow-wrap: break-word; /* Tambahan untuk kompatibilitas */
+    margin-bottom: 3px; /* Jarak bawah elemen */
+}
+
   #counter {
     align-items: center;
     justify-content: center;
