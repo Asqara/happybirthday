@@ -17,7 +17,7 @@ function typeLyrics(lyrics, declaration) {
         charIndex++;
 
         // Recursively call type() with a timeout to simulate typing
-        setTimeout(type, 5); // Adjust typing speed here
+        setTimeout(type, 50); // Adjust typing speed here
       } else {
         charIndex = 0;
         lineIndex++;
