@@ -129,7 +129,8 @@ const pesan_arin = [
   "sehat selalu, semoga kita bisa temenan",
   " terus sampe lulus yh xixixi",
   " jgn somss, hope u got best moment",
-  "on ur birthdayyy, cheersss🍻🤍"
+  "on ur birthdayyy, cheersss🍻🤍",
+  "-Arin"
 ]; 
 const pesan_ais = [
   "happy birthday bro saleuma💅🏻 akhir ",
@@ -137,7 +138,8 @@ const pesan_ais = [
   " traktir susu mbok darmi enak tuuu👀",
     "semangat menerjang kalkulus sist🤘🏻",
     "semoga kita bisa terus jadi temen curhat yaa bub,",
-    " bahagia selalu geulis🤍✨"
+    " bahagia selalu geulis🤍✨",
+  "-Ais"
 ]
 const pesan_naifaa = [
   "halow saleuma, happy birthdayyyy….",
@@ -150,14 +152,16 @@ const pesan_naifaa = [
       "mari penuhi wish list kita yang banyak ituuuu🧘‍♀️",
        "semoga dapet notif tosca dari ipbm😋",
 "n the last one… i hope today be as ",
-"good as u wish yaaa. HAPPY BIRTHDAY💗"
+"good as u wish yaaa. HAPPY BIRTHDAY💗",
+  "-Naifa"
 ]
 const pesan_aku = [
   "wihh HBDD lucuu gaa pesan dari merekaa??",
   "kalo dari aku sih semoga diumur yang ",
   "semakin tua semakin baik dan semakin",
   " bermanfaat buat orang lain",
-  "Tetapp semangaatt i will always be with youu"
+  "Tetapp semangaatt i will always be with youu",
+  "-asqaraa"
 ]
 // Event Listener
 prevBtn.addEventListener("click", goPrevPage);
